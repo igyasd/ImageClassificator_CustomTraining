@@ -17,17 +17,17 @@ Train your own model using your **custom dataset** 🧩 and let it judge images 
 
 ---
 
-## 📁 Dataset Structure (DO NOT MESS THIS UP 😤)
+📁 Dataset Structure (DO NOT MESS THIS UP 😤)
 
-You need **4 folders**. Not 3. Not 7. FOUR. 🧠📂
+You need at least 4 folders (bare minimum). You can add more if you want 💪📂
 
 Each folder = one class 🏷️
 
-⚠️ **VERY IMPORTANT OR THE ML GODS WILL BE ANGRY:**
+⚠️ VERY IMPORTANT OR THE ML GODS WILL BE ANGRY:
 
-* You need **at least 5 images per folder** 🖐️
-* Yes, **5 is the bare minimum** (like showing up to an exam with vibes only) 😭
-* More images = better accuracy 📈 (shocking, I know)
+You need at least 5 images per folder 🖐️
+Yes, 5 is the bare minimum (like showing up to an exam with vibes only) 😭
+More images = better accuracy 📈 (shocking, I know)
 
 ### 🧾 Explanation (but fun):
 
